@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Patrick Anyanwu</h1>
 <h3 align="center">A passionate software developer from Ireland</h3>
+<h3 align="center">Currently Studying Computer Science in Dublin City University</h3>
 
 - 🌱 I’m currently learning **Python, Java**
 
