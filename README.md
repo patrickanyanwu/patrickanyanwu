@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **patrickchukwumaanyanwu@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/16TqO7ta0Wo44X5tMXYOLqHdoV6fFTPs3E4eqJKGHTYo/edit?usp=sharing](https://docs.google.com/document/d/16TqO7ta0Wo44X5tMXYOLqHdoV6fFTPs3E4eqJKGHTYo/edit?usp=sharing)
+- 📄 Know about my experiences <a href="https://docs.google.com/document/d/16TqO7ta0Wo44X5tMXYOLqHdoV6fFTPs3E4eqJKGHTYo/edit?usp=sharing">My CV</a>
 
 - ⚡ Fun fact **I am a social media content creator**
 
