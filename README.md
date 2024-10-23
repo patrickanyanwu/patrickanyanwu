@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software developer from Ireland</h3>
 <h3 align="center">Currently Studying Computer Science in Dublin City University</h3>
 
-- 🌱 I’m currently learning **Python, Java**
+- 🌱 I’m currently learning **Python, Data Structures & Algorithms**
 
 - 📫 How to reach me **patrickchukwumaanyanwu@gmail.com**
 
